@@ -1,2 +1,2 @@
-# cdr-training
-Materials for training on CDR data
+# CDR Training
+Materials for training on CDR data.
