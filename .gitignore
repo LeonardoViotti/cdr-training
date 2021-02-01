@@ -10,6 +10,7 @@
 # These files include GitHub settings
 !.gitignore
 !.gitattributes
+!.gitkeep
 #.io page
 _config.yml
 
