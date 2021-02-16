@@ -46,6 +46,9 @@ _config.yml
 !/**/*.py
 !/**/*.ipynb
 
+# But ignore checkppoints
+.ipynb_checkpoints/*
+
 # C++
 !/**/*.cpp
 !/**/*.ino
