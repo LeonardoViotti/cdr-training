@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 
 class mock_data:
     def __init__(self,
@@ -92,8 +94,10 @@ class mock_data:
         else:
             return self.agg
 
-        
-        
+
+
+
+
 if __name__ == "__main__":
     
     # create mock value for indicator 1
