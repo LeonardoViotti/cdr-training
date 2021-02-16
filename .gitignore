@@ -47,7 +47,7 @@ _config.yml
 !/**/*.ipynb
 
 # But ignore checkppoints
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 
 # C++
 !/**/*.cpp
